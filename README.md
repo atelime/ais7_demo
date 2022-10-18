@@ -1,5 +1,8 @@
 # ais7_demo
 
+
+<img src="https://wesmckinney.com/images/parquet_benchmarks.png">
+
 * 멋쟁이 사자처럼 AIS7 실습
 
 # 제목 1
