@@ -7,14 +7,16 @@
 <img src="https://i.imgur.com/HdZ6jsO.png">
 
 
-ㅡ
+---------
 
 <img src="likelion.png">
 
 * 멋쟁이 사자처럼 AIS7 실습
+---------
 
 # 제목 1
 * 내용 1
+---------
 * 내용 2
 * 내용 3
 
